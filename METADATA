@@ -1,0 +1,21 @@
+name: "SPM for Interactive Media Ads SDK for iOS"
+description:
+  "Interactive Media Ads (IMA) is a suite of SDKs that make it easy to"
+  "integrate multimedia ads into your websites and apps."
+
+third_party: {
+  url {
+    type: HOMEPAGE
+    value: "https://developers.google.com/interactive-media-ads/docs/sdks/ios/dai"
+  }
+  url {
+    type: GIT
+    value: "https://github.com/GoogleAds/swift-package-manager-google-interactive-media-ads-ios"
+  }
+  version: "3.18.4"
+  last_upgrade_date {
+    year: 2023
+    month: 6
+    day: 11
+  }
+}
