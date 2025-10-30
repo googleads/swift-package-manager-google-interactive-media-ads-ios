@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.5
 
 // Copyright 2023 Google LLC
 //
@@ -18,7 +18,7 @@ import PackageDescription
 
 let package = Package(
   name: "GoogleInteractiveMediaAds",
-  platforms: [.iOS(.v11)],
+  platforms: [.iOS(.v15)],
   products: [
     .library(
       name: "GoogleInteractiveMediaAds",
@@ -29,8 +29,8 @@ let package = Package(
     .binaryTarget(
       name: "GoogleInteractiveMediaAds",
       url:
-        "https://imasdk.googleapis.com/downloads/ima/ios/GoogleInteractiveMediaAds-ios-v3.27.4.zip",
-      checksum: "017917add57c721341b45d39912b0e2e06b4c3e2cf3ed211a4b4fe00bd51eeeb"
+        "https://imasdk.googleapis.com/downloads/ima/ios/GoogleInteractiveMediaAds-ios-v3.28.10.zip",
+      checksum: "5e35d438bfd8c2dd762bd27d96d9a696edd827fe10a60d79cb3c4d4a02ad3c77"
     )
   ]
 )
