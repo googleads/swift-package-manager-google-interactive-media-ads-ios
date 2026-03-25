@@ -30,7 +30,7 @@ let package = Package(
       name: "GoogleInteractiveMediaAds",
       url:
         "https://imasdk.googleapis.com/downloads/ima/ios/GoogleInteractiveMediaAds-ios-v3.30.0.zip",
-      checksum: "fbd4fa1e88918c87b8544b2b5d523cd8ff94f693bea953ed41c9595c3f9666d6"
+      checksum: "fe756f0dad63b971f9910e0006232c9816f87031485b8fd5b9c112785962873e"
     )
   ]
 )
