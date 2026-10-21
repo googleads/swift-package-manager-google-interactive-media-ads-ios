@@ -29,8 +29,8 @@ let package = Package(
     .binaryTarget(
       name: "GoogleInteractiveMediaAds",
       url:
-        "https://imasdk.googleapis.com/downloads/ima/ios/GoogleInteractiveMediaAds-ios-v3.33.0.zip",
-      checksum: "f825b7ac1e2c031c99ea10348f0834e3eb89f55c4462e37210bf7877831ec2d1"
+        "https://imasdk.googleapis.com/downloads/ima/ios/GoogleInteractiveMediaAds-ios-v3.34.1.zip",
+      checksum: "83841f0bcb3b34038d9b892f871ba48441370b0a5696af8a8d38b640b62c456e"
     )
   ]
 )
